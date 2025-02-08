@@ -16,7 +16,7 @@ main:
     url: "/#-service"
 
   - title: "CV"
-    url: "/blob/main/_data/Resume.pdf"
+    url: "/Resume.pdf"
   # - title: "Educations"
   #   url: "/#-educations"
 
