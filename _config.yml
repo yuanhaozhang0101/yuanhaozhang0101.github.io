@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanhao's Homepage'"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : 
 repository               : "yuanhao0101/yuanhao0101.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuanhao0101"
+  github           : "https://github.com/yuanhaozhang0101"
   google_plus      :
   keybase          :
   instagram        :

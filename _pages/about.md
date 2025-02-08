@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, this is Yuanhao. I am currently a Ph.D. Candidate at [the HCI Initiative](https://hci.cse.ust.hk/) of Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). Prior to that, I earned my Bachelor’s Degree in Computer Science at HKUST.
+Hey, this is Yuanhao. I am currently a Ph.D. Candidate at the [HCI Initiative](https://hci.cse.ust.hk/) of Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). Prior to that, I earned my Bachelor’s Degree in Computer Science at HKUST.
 
 My research interests lie in human-AI interaction and social computing. I apply human-centered design principles to design, develop, and evaluate interactive AI systems that support online community members in both contributing and consuming information. My goal is to explore how to design human-GenAI coexisting online communities, where humans and AI agents complement each other’s strengths to foster a thriving community.
 
@@ -93,7 +93,7 @@ Zeyu Huang, Xinyi Cao, **Yuanhao Zhang**, and Xiaojuan Ma.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2022</div><img src='images/Self.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring the Effects of Self-Mockery to Improve Task-Oriented Chatbot’s Social Intelligence](https://doi.org/10.48550/arXiv.2502.03767)
+[Exploring the Effects of Self-Mockery to Improve Task-Oriented Chatbot’s Social Intelligence](https://doi.org/10.1145/3532106.3533461)
 
 Chengzhong Liu, Shixu Zhou, **Yuanhao Zhang**, Shixu Zhou, Dingdong Liu, Zhenhui Peng, and Xiaojuan Ma.
 
@@ -143,8 +143,8 @@ Reza Hadi Mogavi, **Yuanhao Zhang**, Yongjin Wu, Pan Hui, and Xiaojuan Ma.
 - *2020-2023* Scholarship Scheme for Continuing Undergraduate Students @ HKUST
 
 # 💻 Service
-- *Program Committee*  | CHI LBW 2025.
-- *Reviewer*  | CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025
+- *Program Committee*: CHI LBW 2025
+- *Reviewer*: CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
