@@ -17,42 +17,140 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hey, this is Yuanhao. I am currently a Ph.D. Candidate at [the HCI Initiative](https://hci.cse.ust.hk/) of Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). Prior to that, I earned my Bachelor’s Degree in Computer Science at HKUST.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests lie in human-AI interaction and social computing. I apply human-centered design principles to design, develop, and evaluate interactive AI systems that support online community members in both contributing and consuming information. My goal is to explore how to design human-GenAI coexisting online communities, where humans and AI agents complement each other’s strengths to foster a thriving community.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;✏️✏️ I will serve as an associate chair (AC) the CHI 2025 Late Breaking Works track!
+- *2025.01*: &nbsp;🎉🎉 Two papers conditionally accepted to CHI 2025. Thanks to my co-authors! 
+- *2025.01*: &nbsp;🎤🎤 Passed my PhD Qualifying Exam! 
+- *2024.10*: &nbsp;🌉🌉 Attended UIST 2024 in Pittsburgh! 
+- *2024.05*: &nbsp;🏄‍♂️🏄‍♂️ Have my first CHI travel in Hawaii!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CoKnowledge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos](https://doi.org/10.48550/arXiv.2502.03767)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuanhao Zhang**, Yumeng Wang, Xiyuan Wang, Changyang He, Chenliang Huang, and Xiaojuan Ma
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We developed CoKnowledge — a tool incorporating video abstracts, knowledge graphs, and supplementary danmaku features support viewers’ assimilation of collective knowledge in online science videos.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/DBox.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DBox: Scaffolding Algorithmic Programming Learning through Learner-LLM Co-Decomposition](https://www.research-collection.ethz.ch/handle/20.500.11850/717449)
+
+Shuai Ma, Junling Wang, **Yuanhao Zhang**, Xiaojuan Ma, and April Wang
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We introduced Decomposition Box (DBox), an LLM-based interactive system that scaffolds and adapts to learners' personalized construction of a step tree by providing just the right level of support.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR-Adjunct 2024</div><img src='images/AR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Be There, Be Fun, Be Streamed! Designing Interactive AR Scenic Live-Streaming.](https://ieeexplore.ieee.org/document/10765333)
+
+Zeyu Huang, Zuyu Xu, **Yuanhao Zhang**, Chengzhong Liu, Yanwei Zhao, Chuhan Shi, Chen Zhao, and Xiaojuan Ma
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose a medium called Augmented Reality Scenic Live-Streaming (ARSLS), where additional virtual content is superimposed and integrated into the real-world scene to actualize proper audience interactions in scenic-oriented live streams.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/Discpline.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiscipLink: Unfolding Interdisciplinary Information Seeking Process via Human-AI Co-Exploration](https://doi.org/10.1145/3654777.3676366)
+
+Chengbo Zheng, **Yuanhao Zhang**, Zeyu Huang, Chuhan Shi, Minrui Xu, and Xiaojuan Ma
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We introduce DiscipLink, a novel interactive system that facilitates collaboration between researchers and large language models (LLMs) in interdisciplinary information seeking (IIS).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/Frisson.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sharing Frissons among Online Video Viewers: Exploring the Design of Affective Communication for Aesthetic Chills](https://doi.org/10.1145/3613904.3642818)
+
+Zeyu Huang, Xinyi Cao, **Yuanhao Zhang**, and Xiaojuan Ma.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose an afective communication approach on online video platforms that senses, aggregates, and presents viewers’ frissons while watching videos asynchronously.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2022</div><img src='images/Self.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Effects of Self-Mockery to Improve Task-Oriented Chatbot’s Social Intelligence](https://doi.org/10.48550/arXiv.2502.03767)
+
+Chengzhong Liu, Shixu Zhou, **Yuanhao Zhang**, Shixu Zhou, Dingdong Liu, Zhenhui Peng, and Xiaojuan Ma.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We proposed to apply self-mockery humor to a customer service chatbot in different interaction stages with users to improve chatbots’ overall social intelligence.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">L@S 2022</div><img src='images/Gamification.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Gamification Spoils Your Learning: A Qualitative Case Study of Gamification Misuse in a Language-LearningApp](https://doi.org/10.1145/3491140.3528274)
+
+Reza Hadi Mogavi, Bingcan Guo, **Yuanhao Zhang**, Ehson UI Haq, Pan Hui, and Xiaojuan Ma.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We conducted the first extensive qualitative research on gamification misuse in a popular learning app called Duolingo. This study consists of two phases: (I) a content analysis of data from Duolingo forums (from the past nine years) and (II) semi-structured interviews with 15 international Duolingo users.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2022</div><img src='images/WB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What Do Users Think of Promotional Gamification Schemes? A Qualitative Case Study in a Question Answering Website](https://doi.org/10.1145/3555124)
+
+Reza Hadi Mogavi, **Yuanhao Zhang**, Yongjin Wu, Pan Hui, and Xiaojuan Ma.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We conduct an extensive qualitative case study of users' experiences with a promotional gamification scheme on the Community Question Answering Website (CQA) of Stack Exchange, called Winter Bash (WB).
+</div>
+</div>
+
+
+
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023-2027*  Hong Kong PhD Fellowship Scheme @ HKUST
+- *2023* RedBird PhD Award @ HKUST
+- *2023* Academic Achievement Medal @ HKUST
+- *2022* Methods Recognitions Award @ CSCW2022
+- *2022* Honorable mentions Award @ L@S 2022
+- *2020-2023* Dean’s Lists @ School of Engineering, HKUST
+- *2020-2023* Scholarship Scheme for Continuing Undergraduate Students @ HKUST
 
-# 📖 Educations
+# 💻 Service
+- *Program Committee*  | CHI LBW 2025.
+- *Reviewer*  | CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025
+
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
