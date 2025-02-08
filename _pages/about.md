@@ -19,7 +19,7 @@ redirect_from:
 
 Hey, this is Yuanhao. I am currently a Ph.D. Candidate at the [HCI Initiative](https://hci.cse.ust.hk/) of Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). Prior to that, I earned my Bachelor’s Degree in Computer Science at HKUST.
 
-My research interests lie in human-AI interaction and social computing. I apply human-centered design principles to design, develop, and evaluate interactive AI systems that support online community members in both contributing and consuming information. My goal is to explore how to design human-GenAI coexisting online communities, where humans and AI agents complement each other’s strengths to foster a thriving community.
+My research interests lie in human-AI interaction and social computing. I apply human-centered design principles to design, develop, and evaluate interactive AI systems that support online community members in both contributing and consuming information. I aim to explore how to design human-GenAI co-existing online communities, where humans and AI agents complement each other’s strengths to foster a thriving community.
 
 # 🔥 News
 - *2025.02*: &nbsp;✏️✏️ I will serve as an associate chair (AC) the CHI 2025 Late Breaking Works track!
