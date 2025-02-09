@@ -144,7 +144,7 @@ Reza Hadi Mogavi, **Yuanhao Zhang**, Yongjin Wu, Pan Hui, and Xiaojuan Ma.
 
 # 💻 Service
 - *Program Committee*: CHI LBW 2025
-- *Reviewer*: CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025
+- *Reviewer*: CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025, DIS 2025
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
