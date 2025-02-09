@@ -22,7 +22,7 @@ Hey, this is Yuanhao. I am currently a Ph.D. Candidate at the [HCI Initiative](h
 My research interests lie in human-AI interaction and social computing. I apply human-centered design principles to design, develop, and evaluate interactive AI systems that support online community members in both contributing and consuming information. I aim to explore how to design human-GenAI co-existing online communities, where humans and AI agents complement each other’s strengths to foster a thriving community.
 
 # 🔥 News
-- *2025.02*: &nbsp;✏️✏️ I will serve as an associate chair (AC) the CHI 2025 Late Breaking Works track!
+- *2025.02*: &nbsp;✏️✏️ I will serve as an associate chair (AC) of the CHI 2025 Late Breaking Works track!
 - *2025.01*: &nbsp;🎉🎉 Two papers conditionally accepted to CHI 2025. Thanks to my co-authors! 
 - *2025.01*: &nbsp;🎤🎤 Passed my PhD Qualifying Exam! 
 - *2024.10*: &nbsp;🌉🌉 Attended UIST 2024 in Pittsburgh! 
