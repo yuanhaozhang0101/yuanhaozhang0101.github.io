@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanhao's Homepage"
-description              : "Welcome to my Homepage!"
+title                    : "Yuanhao Zhang"
+description              : "Yuanhao Zhang | HKUST HCI Researcher | Personal Website"
 repository               : "yuanhao0101/yuanhao0101.github.io"
 google_scholar_stats_use_cdn : true
 
