@@ -31,6 +31,31 @@ My research interests lie in human-AI interaction and social computing. I apply 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW Poster 2025</div><img src='images/CoKnowledge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Platform Migration to Cultural Integration: the Ingress and Diffusion of #wlw from TikTok to RedNote in Queer Women Communities](https://doi.org/10.48550/arXiv.2508.07579)
+
+Ziqi Pan, Runhua Zhang, Jiehui Luo, **Yuanhao Zhang**, Yue Deng, and Xiaojuan Ma
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- The Western-origin #wlw (womenloving-women) hashtag has risen in the Chinese lesbian community
+on RedNote. We conducted a two-phase content analysis of #wlw posts, examining different usage patterns during the hashtag’s ingress and diffusion. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI LBW 2025</div><img src='images/CoKnowledge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[" I Love the Internet Again": Exploring the Interaction Inception of" TikTok Refugees" Flocking into RedNote](https://doi-org.lib.ezproxy.hkust.edu.hk/10.1145/3706599.3719738)
+
+Kangyu Yuan, Li Zhang, Hanfang, Lyu, Ziqi Pan, **Yuanhao Zhang**, Junze Li, Bingcan Guo, Jiaxiong Hu, Qingyu Guo, and Xiaojuan Ma
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- The U.S. government’s announcement to ban TikTok in January 2025 led an influx of TikTok users to migrate to RedNote, a Chinese user dominant social media platform. In this study, we analyze 3,510 RedNote posts to characterize how TikTok migrants blend into the platform.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CoKnowledge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -136,7 +161,7 @@ Reza Hadi Mogavi, **Yuanhao Zhang**, Yongjin Wu, Pan Hui, and Xiaojuan Ma.
 
 # 🎖 Honors and Awards
 - *2023-2027*  Hong Kong PhD Fellowship Scheme @ HKUST
-- *2023* RedBird PhD Award @ HKUST
+- *2023-2024* RedBird PhD Award @ HKUST
 - *2023* Academic Achievement Medal @ HKUST
 - *2022* Methods Recognitions Award @ CSCW2022
 - *2022* Honorable mentions Award @ L@S 2022
