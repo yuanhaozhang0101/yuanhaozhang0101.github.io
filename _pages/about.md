@@ -31,7 +31,7 @@ My research interests lie in human-AI interaction and social computing. I apply 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW Poster 2025</div><img src='images/CoKnowledge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW Poster 2025</div><img src='images/WLW.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Platform Migration to Cultural Integration: the Ingress and Diffusion of #wlw from TikTok to RedNote in Queer Women Communities](https://doi.org/10.48550/arXiv.2508.07579)
@@ -44,7 +44,7 @@ on RedNote. We conducted a two-phase content analysis of #wlw posts, examining d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI LBW 2025</div><img src='images/CoKnowledge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI LBW 2025</div><img src='images/RedNote.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [" I Love the Internet Again": Exploring the Interaction Inception of" TikTok Refugees" Flocking into RedNote](https://doi-org.lib.ezproxy.hkust.edu.hk/10.1145/3706599.3719738)
