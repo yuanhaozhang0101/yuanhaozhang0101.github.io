@@ -31,11 +31,11 @@ My research interests lie in human-AI interaction and social computing. I apply 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Revision</div><img src='images/Survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Revision</div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review]({{ "/CSCW26_Revision_arXiv.pdf" | relative_url }}) -->
-["Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions]
+Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review
 
 **Yuanhao Zhang**, Xiaoyu Wang, Jiaxiong Hu, Ziqi Pan, Zhenhui Peng and Xiaojuan Ma
 
@@ -46,10 +46,10 @@ My research interests lie in human-AI interaction and social computing. I apply 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Agent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions]
+"Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions
 
 **Yuanhao Zhang**, Wenbo Li, Xiaoyu Wang, Kangyu Yuan, Shuai Ma, and Xiaojuan Ma
 
