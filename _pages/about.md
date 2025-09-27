@@ -31,6 +31,39 @@ My research interests lie in human-AI interaction and social computing. I apply 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Revision</div><img src='images/Survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review]({{ "/CSCW26_Revision_arXiv.pdf" | relative_url }}) -->
+["Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions]
+
+**Yuanhao Zhang**, Xiaoyu Wang, Jiaxiong Hu, Ziqi Pan, Zhenhui Peng and Xiaojuan Ma
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We present a systematic review of 77 studies, analyzing the systems they propose through three lenses: the challenges they aim to address, their design functionalities, and the evaluation strategies employed.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Agent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions]
+
+**Yuanhao Zhang**, Wenbo Li, Xiaoyu Wang, Kangyu Yuan, Shuai Ma, and Xiaojuan Ma
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We explored AI intervention strategies (task-oriented and/or relationship-oriented) throughout the knowledge co-construction process, and implemented them in an LLM-powered agent capable of facilitating progression while consolidating foundations at each phase.
+</div>
+</div>
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW Poster 2025</div><img src='images/WLW.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
