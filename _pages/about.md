@@ -31,11 +31,11 @@ My research focuses on human–AI interaction and social computing. I employ hum
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Revision</div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review]({{ "/CSCW26_Revision_arXiv.pdf" | relative_url }}) -->
-Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review
+[Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review](https://arxiv.org/abs/2509.23309)
 
 **Yuanhao Zhang**, Xiaoyu Wang, Jiaxiong Hu, Ziqi Pan, Zhenhui Peng and Xiaojuan Ma
 
@@ -49,7 +49,7 @@ Designing AI-Infused Interactive Systems for Online Communities: A Systematic Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions
+["Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions](https://arxiv.org/abs/2509.23327)
 
 **Yuanhao Zhang**, Wenbo Li, Xiaoyu Wang, Kangyu Yuan, Shuai Ma, and Xiaojuan Ma
 
