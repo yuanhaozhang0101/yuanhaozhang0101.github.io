@@ -22,6 +22,8 @@ Hey, this is Yuanhao. I am currently a Ph.D. Candidate at the [HCI Initiative](h
 My research focuses on human–AI interaction and social computing. I employ human-centered design principles to develop interactive AI systems that enhance and extend human capabilities, with applications in social media and online communities, education and learning, and collective action. I seek empirical insights into how to harness AI’s potential for meaningful social impact across scales—from dyadic interactions involving a single human counterpart to multiparty contexts, where AI engages as a contributing member of a group.
 
 # 🔥 News
+- *2026.02*: &nbsp;✏️✏️ I will serve as an associate chair (AC) of the CHI 2026 Late Breaking Works track!
+- *2026.01*: &nbsp;🎉🎉 Three papers conditionally accepted to CHI 2026. Thanks to my co-authors! 
 - *2025.10*: &nbsp;🌺🌺 CSCW 2025! See you in Bergen!
 - *2025.04*: &nbsp;🌺🌺 CHI 2025! See you in Yokohama!
 - *2025.02*: &nbsp;✏️✏️ I will serve as an associate chair (AC) of the CHI 2025 Late Breaking Works track!
