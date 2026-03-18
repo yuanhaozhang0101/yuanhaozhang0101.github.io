@@ -22,6 +22,7 @@ Hey, this is Yuanhao. I am currently a Ph.D. Candidate at the [HCI Initiative](h
 My research focuses on human–AI interaction and social computing. I employ human-centered design principles to develop interactive AI systems that enhance and extend human capabilities, with applications in social media and online communities, education and learning, and collective action. I seek empirical insights into how to harness AI’s potential for meaningful social impact across scales—from dyadic interactions involving a single human counterpart to multiparty contexts, where AI engages as a contributing member of a group.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Our paper "Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review" has been conditionally accepted to CSCW 2026. Thanks to my co-authors! 
 - *2026.03*: &nbsp;🎊🎊 I will be serving as the Session Chair for the "Human Steering and Interaction with AI" session at CHI 2026!
 - *2026.03*: &nbsp;🏆🏆 Our Paper "Friend, Foe, or Bot? Exploring Intergroup Dynamics in Hybrid Human-Bot Teams" received ACM CHI 2026 Best Paper Award!!
 - *2026.03*: &nbsp;🎉🎉 Three full papers and two posters accepted to CHI 2026. Thanks to my co-authors!
