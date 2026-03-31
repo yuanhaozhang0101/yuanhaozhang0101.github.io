@@ -38,11 +38,11 @@ My research focuses on human–AI interaction and social computing. I employ hum
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2026</div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review]({{ "/CSCW26_Revision_arXiv.pdf" | relative_url }}) -->
-[Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review](https://arxiv.org/abs/2509.23309)
+[Designing AI-Infused Interactive Systems for Online Communities: A Systematic Literature Review]
 
 **Yuanhao Zhang**, Xiaoyu Wang, Jiaxiong Hu, Ziqi Pan, Zhenhui Peng and Xiaojuan Ma
 
@@ -52,8 +52,7 @@ My research focuses on human–AI interaction and social computing. I employ hum
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission</div><img src='images/Agent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/Agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions](https://arxiv.org/abs/2509.23327)
@@ -64,6 +63,8 @@ My research focuses on human–AI interaction and social computing. I employ hum
 - We explored AI intervention strategies (task-oriented and/or relationship-oriented) throughout the knowledge co-construction process, and implemented them in an LLM-powered agent capable of facilitating progression while consolidating foundations at each phase.
 </div>
 </div>
+
+
 
 
 
