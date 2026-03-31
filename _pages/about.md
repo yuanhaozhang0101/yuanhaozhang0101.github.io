@@ -202,7 +202,9 @@ Reza Hadi Mogavi, **Yuanhao Zhang**, Yongjin Wu, Pan Hui, and Xiaojuan Ma.
 
 # 🎖 Honors and Awards
 - *2023-2027*  Hong Kong PhD Fellowship Scheme @ HKUST
-- *2023-2024* RedBird PhD Award @ HKUST
+- *2026* Best Paper Award @ CHI 2026
+- *2023-2025* RedBird PhD Award @ HKUST
+- *2023-2025* Research Travel Grant @ HKUST
 - *2023* Academic Achievement Medal @ HKUST
 - *2022* Methods Recognitions Award @ CSCW2022
 - *2022* Honorable mentions Award @ L@S 2022
@@ -210,9 +212,9 @@ Reza Hadi Mogavi, **Yuanhao Zhang**, Yongjin Wu, Pan Hui, and Xiaojuan Ma.
 - *2020-2023* Scholarship Scheme for Continuing Undergraduate Students @ HKUST
 
 # 💻 Service
-- *Session Chair*: CHI 2025
-- *Program Committee*: CHI LBW 2025
-- *Reviewer*: CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025, DIS 2025
+- *Session Chair*: CHI 2025, CHI 2026
+- *Program Committee*: CHI LBW 2025, CHI Poster 2026
+- *Reviewer*: CHI PLAY 2023, CHI LBW 2023, CSCW 2024, CHI 2025, CSCW 2025, DIS 2025, CHI 2026, L@S 2026
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
