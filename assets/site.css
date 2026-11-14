@@ -224,6 +224,7 @@ section.block { padding: 72px 0; border-top: 1px solid var(--line); }
 .market h4 { margin: 0 0 4px; font-size: 17px; }
 .market p { margin: 0; color: var(--ink-2); font-size: 15px; max-width: 640px; }
 .market .chip-link { flex: none; }
+.market-actions { display: flex; gap: 10px; flex-wrap: wrap; }
 
 /* ---------- News ---------- */
 .news { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; }

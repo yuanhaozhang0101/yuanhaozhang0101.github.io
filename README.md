@@ -6,6 +6,7 @@ Personal academic website of Yuanhao Zhang, served by GitHub Pages as a plain st
 - `assets/site.css`, `assets/site.js`: styles, theme toggle, publication filters
 - `images/avatar.jpg`: profile photo; `images/pubs/`: publication thumbnails
 - `Resume.pdf`: CV linked from the site
+- `Research-Statement.pdf`: research statement linked from the site
 
 ## Updating
 
